@@ -1,0 +1,24 @@
+{
+  "name": "monke",
+  "version": "1.0.0",
+  "description": "A attempt at building an incremental game using TS about monkes",
+  "main": "main.js",
+  "dependencies": {
+    "typescript": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krlenell/monke.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krlenell/monke/issues"
+  },
+  "homepage": "https://github.com/krlenell/monke#readme"
+}
